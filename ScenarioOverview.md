@@ -3,10 +3,13 @@
 
 ### Scenario Overview  
 
-The following issues are being faced by the client, a pet daycare:
+The client, a pet daycare, is facing the following issues:  
 
-1. Owners are frustrated because it takes at least three months to onboard new hires.
-2. Employee Dissatisfaction: Onboarding new clients is a challenging process, and every employee has a unique "flavour" while dealing with them.
-3. Customers' annoyance: It's hard to follow the onboarding process.
+1. **Owners' Frustration:** It takes at least three months to onboard new hires.  
+2. **Employee Dissatisfaction:** Onboarding new clients is challenging, and every employee follows a unique "flavour" when dealing with them.  
+3. **Customers' Annoyance:** The onboarding process is difficult for clients to follow.  
 
-The objective is to break down the requirements, prepare questions, and outline preliminary tasks in order to be ready for the first meeting with the client.
+The objective is to:  
+- Break down the requirements.  
+- Prepare questions to clarify client needs.  
+- Outline preliminary tasks to ensure readiness for the first client meeting. 
